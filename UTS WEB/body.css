@@ -2,9 +2,68 @@ body {
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #fff;
+    background-color: pink;
     text-align: center;
   }
+  .pertama{
+    background-color: pink;
+    height: 100vh;
+}
+.header{
+
+    max-width: 1300px;
+    margin: auto;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+/* Buka Navbar */
+.navbar {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+.navbar1{
+    flex: 1;
+    text-align: right;
+}
+.navbar ul{
+    display: inline-block;
+    list-style-type: none;
+}
+.navbar1 ul li{
+    display: inline-block;
+    margin-right: 20px;
+}
+/* Tutup Navbar */
+
+img{
+  
+}
+.row{
+
+    margin-top: 200px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.col-2{
+    flex-basis: 50%;
+    min-width: 300px;
+
+}
+.col-2 img{
+    max-width: 100%;
+    padding: 50px 0;
+
+}
+.col-2 h1{
+    font-size: 50px;
+    line-height: 60px;
+    margin: 25px 0;
+}
+
+/* eza */
   
 .Judul {
     padding: 20px;
