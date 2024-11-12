@@ -1,0 +1,49 @@
+
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background-color:black;
+    color:white;
+}
+
+.footer {
+    width: 30%;
+}
+
+.footer h2 {
+    margin-bottom: 10px;
+    font-size: 18px;
+    color: blue;
+}
+
+.footer p, .footer li {
+    font-size: 14px;
+    margin: 5px 0;
+}
+
+.footer li {
+    list-style: none;
+}
+
+.footer a {
+    color: #ddd;
+    text-decoration: none;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
+
+.footer .content {
+    padding: 10px;
+}
+
+.footer .content li {
+    margin-bottom: 5px;
+}
+
+.footer .content a {
+    color:white;
+}
