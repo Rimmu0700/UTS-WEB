@@ -1,4 +1,5 @@
 // navbar
+
 const navbar = document.querySelector(".header .navbar");
 window.addEventListener("scroll", function () {
   // cek scrol posisi

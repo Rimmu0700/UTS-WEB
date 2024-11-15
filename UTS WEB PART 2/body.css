@@ -127,7 +127,7 @@ body {
     margin: auto;
     height: 300px;
     width: 80%;
-    border: 5px solid lightskyblue;
+    border: 5px solid #87cefa;
     
   }
 .promo1{
@@ -137,7 +137,7 @@ body {
   align-items: center;
   justify-content: center;
   overflow: hidden;
-  background-color: aqua;
+  background-color: #00ffff;
 }
 .gambarPromo{
   display: flex;
@@ -195,15 +195,13 @@ body {
 }
 
 .laptop-item {
-  border: 5px solid rgb(255, 255, 255);
   margin: 10px;
-  padding: 15px;
+  padding: 10px;
   width: 300px;
   background-color: #fff;
   text-align: center;
   border-radius: 10px;
   transition: transform 0.5s ease;
-  box-shadow: 0 12px 20px rgba(0, 0, 0, 0.3);
 }
 
 .laptop-item:hover {

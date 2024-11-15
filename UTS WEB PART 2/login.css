@@ -33,7 +33,9 @@ h2 {
 .pass{
     margin-bottom: 20px;
 }
-
+.email{
+    margin-bottom: 20px;
+}
 input {
     width: 100%;
     padding: 12px;
